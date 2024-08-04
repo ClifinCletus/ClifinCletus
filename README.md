@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClifinCletus
 - 👀 I’m interested in web development and technology
 - 🌱 I’m currently learning Btech in CS.
-
+- ⚡️I am currently a TA at Nxtwave.
 
 <!---
 ClifinCletus/ClifinCletus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
