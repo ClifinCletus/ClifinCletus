@@ -9,7 +9,7 @@ I'm a **passionate web developer** and **technology enthusiast** currently pursu
  **💡 Skills & Tech Stack**  
 ✔️ **Frontend:** React.js, JavaScript ,HTML, CSS, GSAP  
 ✔️ **Backend:** Node.js (Exploring More)  
-✔️ **Tools:** Git, GitHub
+✔️ **Tools:** Git, GitHub  
 ✔️ **Others:** Doubt Clearence, Teamwork, Communication
 
 ---
