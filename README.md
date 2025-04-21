@@ -2,11 +2,12 @@
 
 I'm a **technology enthusiast** currently pursuing a **B.Tech in Computer Science**. I love building web applications and exploring new technologies.
 
-🚀 **Currently I'm a Teaching Assistant (TA) at Nxtwave**
+🚀 **I have been a Teaching Assistant (TA) at Nxtwave**
 ---
 
  **💡 Skills & Tech Stack**  
 ✔️ **Frontend:** React.js (still learning), JavaScript ,HTML, CSS
+
 ✔️ **Others:** Doubt Clearence, Teamwork, Communication
 
 ---
