@@ -1,13 +1,12 @@
  **👋 Hi, I'm Clifin Cletus!**  
 
-I'm a **passionate web developer** and **technology enthusiast** currently pursuing a **B.Tech in Computer Science**. I love building interactive web applications, exploring new technologies, and solving complex problems through code.  
+I'm a **technology enthusiast** currently pursuing a **B.Tech in Computer Science**. I love building web applications and exploring new technologies.
 
-🚀 **Currently, I'm a Teaching Assistant (TA) at Nxtwave**, helping others learn and grow in the field of development.  
-
+🚀 **Currently I'm a Teaching Assistant (TA) at Nxtwave**
 ---
 
  **💡 Skills & Tech Stack**  
-✔️ **Frontend:** React.js, JavaScript ,HTML, CSS
+✔️ **Frontend:** React.js (still learning), JavaScript ,HTML, CSS
 ✔️ **Others:** Doubt Clearence, Teamwork, Communication
 
 ---
