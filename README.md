@@ -1,6 +1,6 @@
  **👋 Hi, I'm Clifin Cletus!**  
 
-I'm a **technology enthusiast** currently pursuing a **B.Tech in Computer Science**. I love building web applications and exploring new technologies.
+I'm a **technology enthusiast** currently pursuing a **B.Tech in Computer Science**. I love exploring new technologies.
 
 🚀 **I have been a Teaching Assistant (TA) at Nxtwave**
 ---
