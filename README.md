@@ -6,7 +6,7 @@ I'm a **technology enthusiast** currently pursuing a **B.Tech in Computer Scienc
 ---
 
  **💡 Skills**  
-✔️ **Frontend:** React.js (still learning), JavaScript ,HTML, CSS
+✔️ **Frontend:** React.js, JavaScript ,HTML, CSS
 
 ✔️ **Others:** Doubt Clearence, Teamwork, Communication
 
