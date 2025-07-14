@@ -6,9 +6,9 @@ I'm a **technology enthusiast** currently pursuing a **B.Tech in Computer Scienc
 ---
 
  **💡 Skills**  
-✔️ **Frontend:** React.js,Typescript, JavaScript ,HTML, CSS
+✔️ **Frontend:** React.js,Typescript, JavaScript ,HTML, CSS, Redux
 
-✔️ **Backend:** Node.js, Express.js, MongoDB
+✔️ **Backend:** Node.js, Express.js, MongoDB, Sql
 
 ✔️ **Others:** Doubt Clearence, Teamwork, Communication
 
